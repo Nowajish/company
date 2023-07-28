@@ -1,0 +1,135 @@
+li {
+    display: inline;
+    padding-left: 50px;
+}
+
+ul {
+    text-align: center;
+    margin-left: -40px;
+    margin-top: 40px;
+}
+
+.A {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+#b {
+    border-left-width: 4px;
+    border-left-color: blueviolet;
+    border-left-style: solid;
+    padding-left: 30px;
+    margin-right: -54px;
+    padding-right: 30px;
+
+}
+
+#a {
+    margin-right: -54px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#c {
+    border-left-width: 4px;
+    border-left-color: blueviolet;
+    border-left-style: solid;
+    padding-left: 30px;
+    margin-right: -54px;
+    padding-right: 30px;
+}
+
+#e {
+    border-left-width: 4px;
+    border-left-color: blueviolet;
+    border-left-style: solid;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#d {
+    border-left-width: 4px;
+    border-left-color: blueviolet;
+    border-left-style: solid;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-right: -54px;
+}
+
+.A:hover {
+    color: rgb(77, 137, 189);
+}
+
+.img {
+    margin-top: -90px;
+    position: absolute;
+}
+
+/*Copy till here */
+
+.aaa {
+    float: left;
+    margin-top: 50px;
+    display: inline;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+
+
+}
+
+
+.apply {}
+
+.mik {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.pp {
+    float: right;
+    margin-right: 30px;
+    font-size: 25px;
+    margin-top: 60px;
+}
+
+.ajb {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.eng {
+    font-size: 40px;
+    font-family: sans-serif;
+}
+
+.erp {
+    font-size: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+    color: rgb(39, 99, 0);
+    font-family: sans-serif;
+}
+
+.pre {
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.base {
+    background-color: rgb(39, 99, 0);
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    margin-left: -50px;
+    margin-right: -50px;
+}
+
+.write {
+    font-family: Constantia;
+}
+
+.erp:hover{opacity:0.5; }
